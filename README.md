@@ -1,8 +1,10 @@
 # Hate_SpeechDetection
 Hate Speech Detection 🛡️
+<br>
 This project uses Natural Language Processing (NLP) and machine learning to detect hate speech, offensive language, and neutral tweets.
 
 📁 Files
+<br>
 dataset.csv: The training data
 hate_speech_detection.py: Python script for training & testing
 requirements.txt: All dependencies
